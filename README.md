@@ -1,1 +1,2 @@
-# MustHave_Kaggle
+# Must Have 머신러닝·딥러닝 문제해결 전략
+---
